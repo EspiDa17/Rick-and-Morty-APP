@@ -1,0 +1,23 @@
+
+.button {
+    font-family: fantasy;
+   width: 10vw;
+   height: 6vh;
+   position: absolute;
+   background-color: rgb(104, 175, 107);
+    top: 45px;
+    left: 910px;
+   border-radius: 10%;
+   border: thick double #000000;
+   font: small-caps bold 24px/1 sans-serif;
+}
+
+.input {
+    width: 300px;
+    height: 30px;
+    position: absolute;
+    top: 50px;
+    left: 600px;
+    font: small-caps bold 24px/1 sans-serif;
+    border-radius: 5%; 
+}

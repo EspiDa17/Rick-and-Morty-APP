@@ -1,0 +1,22 @@
+.div {
+   display: flex;
+   justify-content: center;
+}
+
+.select1 {
+   background-color: transparent;
+   color: aliceblue;
+   font-weight: bold;
+   position: absolute;
+   top: 100px;
+   left: 40px; 
+}
+
+.select2 {
+   background-color: transparent;
+   color: aliceblue;
+   font-weight: bold;
+   position: absolute;
+   top: 100px;
+   left: 160px; 
+}

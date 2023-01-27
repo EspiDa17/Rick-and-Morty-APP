@@ -1,0 +1,47 @@
+.container {
+    font-size: 90%;
+    width: full;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 50px;
+}
+
+.home {
+    font-family: fantasy;
+    color: aliceblue;
+    font-size: 200%;
+    font-weight: 200;
+    position: absolute;
+    top: 40px;
+    left: 40px; 
+}
+
+.about {
+    font-family: fantasy;
+    color: aliceblue;
+    font-size: 200%;
+    font-weight: 200;
+    position: absolute;
+    top: 40px;
+    left: 170px; 
+}
+
+.favorites {
+    font-family: fantasy;
+    color: aliceblue;
+    font-size: 200%;
+    font-weight: 200;
+    position: absolute;
+    top: 40px;
+    left: 300px;  
+}
+
+.logOut {
+    font-family: fantasy;
+    color: aliceblue;
+    font-size: 200%;
+    font-weight: 200;
+    position: absolute;
+    top: 40px;
+    right: 40px; 
+}

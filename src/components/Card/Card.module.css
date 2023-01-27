@@ -1,0 +1,53 @@
+
+.div {
+    margin: 10px;
+    border-radius: 60px;
+    border: 5px solid #ddd;
+    width: 18%;
+    height: 30%;
+   border-color: black;
+   margin-top: 70px;
+   align-items: center;
+   justify-content: center;
+   background: radial-gradient(rgb(0, 60, 255), rgb(0, 255, 55));
+}
+
+.button0 {
+    width: 30px;
+    height: 30px;
+    margin-top: 8px;
+    color: black;
+    background-color: transparent;
+    font-size: 1.2rem;
+    border-color: transparent;
+}
+
+.button1 {
+    background-color: red;
+    width: 30px;
+    height: 25px;
+    margin-top: 8px;
+    margin-left: 20px;
+    color: black;
+    font-size: 1.2rem;
+}
+
+.button2 {
+    margin-top: 10px;
+    color: black;
+    font-size: 1.2rem;
+    border-radius: 10px;
+ }
+
+.h2 {
+   color: black;
+   font-size: 1.2rem;
+}
+
+.img {
+   width: 90%;
+   margin: 2px;
+   border-radius: 60px;
+   border: 5px solid #ddd;
+   border-color: black;
+}
