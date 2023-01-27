@@ -43,10 +43,10 @@ function rootReducer (state=initialState, { type, payload }){
                 if(a.id > b.id){
                     // Si mi payload es ascendente, entonces lo muevo a la derecha : sino a la izquierda
                     // Esto es otra especie de IF - TERNARIO
-                    payload === 'Ascendente'? 1 : -1
+                    return payload === 'Ascendente'? 1 : -1
                 }
                 if(b.id > a.id){
-                    payload === 'Descendente' ? -1 : 1
+                    return payload === 'Descendente' ? -1 : 1
                 }
                 // Si tienen el mismo id los deja quietos, no los muve
                 else return 0
